@@ -6,7 +6,7 @@ body {
 /*---------- TABLET ----------*/
 /* ----------- For screens 768px and larger ----------- */
 @media (min-width: 768px)
-and (max-device-width: 1024px)
+
 {
 	body {
     background: red;
@@ -16,7 +16,7 @@ and (max-device-width: 1024px)
 /*---------- Desktops ----------*/
 /* ----------- For screens 1200px wide and larger----------- */
 @media (min-width: 1200px)
-and (max-device-width: 1600px) {
+ {
 body {
   background: lightgreen;
 }
