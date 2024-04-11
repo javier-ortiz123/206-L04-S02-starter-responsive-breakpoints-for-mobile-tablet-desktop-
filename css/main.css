@@ -6,7 +6,6 @@ body {
 /*---------- TABLET ----------*/
 /* ----------- For screens 768px and larger ----------- */
 @media (min-width: 768px)
-
 {
 	body {
     background: red;
